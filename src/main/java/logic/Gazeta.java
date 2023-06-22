@@ -1,5 +1,10 @@
 package logic;
-
+/**
+ *
+ *publiczny konstruktor z super z klasy Ksiazka - public Encyklopedia
+ * publiczny getter - public String getRodzaj
+ * publiczny setter - pulbluc voud setRodzaj
+ */
 public class Gazeta extends Ksiazka{
     boolean czyObrazki;
 

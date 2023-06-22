@@ -1,5 +1,11 @@
 package logic;
-
+/**
+ *
+ * default konstruktor - Ksiazka
+* publiczny konstruktor wykorzystywany przez klasy Komiks Gazeta Encyklopedia
+ * publiczne gettery
+ * publiczne settery
+ */
 public class Ksiazka {
 
     public String tytul;
